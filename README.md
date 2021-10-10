@@ -1,2 +1,2 @@
 # Recover_Linux
- Script to recover deleted files (Linux Env. only)
+ Script to recover deleted files (Linux env. only)
